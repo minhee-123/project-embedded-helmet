@@ -40,7 +40,9 @@
 ---
 
 ## 🎬 주요 기능 및 결과물
-수정
+**전체 기능 설명 및 데모 영상**
+
+[![임베디드 헬멧 프로젝트 결과 영상](https://img.youtube.com/vi/RcIIAL9TnNg/0.jpg)](https://youtu.be/RcIIAL9TnNg)
 
 <br>
 
